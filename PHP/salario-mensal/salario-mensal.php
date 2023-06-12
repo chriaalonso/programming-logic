@@ -13,7 +13,7 @@
     <div class="container mt-5">
         <div class="row">
             <div class="col">
-                <h1 class="text-uppercase mb-5"> Quanto você ganha por hora:</h1>
+                <h1 class="text-uppercase mb-5">Quanto você ganha por hora:</h1>
                 <?php
 
                 $salary = $_GET['salary'] ?? 'Não inseriu o salário';
