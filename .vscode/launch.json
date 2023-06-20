@@ -1,0 +1,50 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "SalarioMensal",
+            "request": "launch",
+            "mainClass": "salario_mensal.SalarioMensal",
+            "projectName": "programming-logic_b022f257"
+        },
+        {
+            "type": "java",
+            "name": "SalarioMensal",
+            "request": "launch",
+            "mainClass": "SalarioMensal",
+            "projectName": "programming-logic_b022f257"
+        },
+        {
+            "type": "java",
+            "name": "Divisor",
+            "request": "launch",
+            "mainClass": "divisor.Divisor",
+            "projectName": "programming-logic_b022f257"
+        },
+        {
+            "type": "java",
+            "name": "Divisor",
+            "request": "launch",
+            "mainClass": "Divisor",
+            "projectName": "programming-logic_b022f257"
+        },
+        {
+            "type": "java",
+            "name": "Divisor",
+            "request": "launch",
+            "mainClass": "JAVA.divisor.Divisor",
+            "projectName": "programming-logic_b022f257"
+        },
+        {
+            "name": "Dart & Flutter",
+            "request": "launch",
+            "type": "dart",
+            "program": "C:/tools/dart-sdk/bin",
+            "console": "terminal"
+        }
+    ]
+}
