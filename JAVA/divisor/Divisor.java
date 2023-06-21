@@ -1,5 +1,4 @@
 package divisor;
-
 import java.util.Scanner;
 
 public class Divisor {
