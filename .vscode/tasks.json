@@ -1,0 +1,24 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "typescript",
+			"tsconfig": "c:xampp/htdocs/cursos/programming-logic/public/tsconfig.json",
+			"problemMatcher": [
+				"$tsc"
+			],
+			"group": "build",
+			"label": "tsc: build - public/tsconfig.json"
+		},
+		{
+			"type": "typescript",
+			"tsconfig": "c:xampp/htdocs/cursos/programming-logic/public/tsconfig.json",
+			"option": "watch",
+			"problemMatcher": [
+				"$tsc-watch"
+			],
+			"group": "build",
+			"label": "tsc: watch - public/tsconfig.json"
+		}
+	]
+}
