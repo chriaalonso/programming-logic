@@ -13,7 +13,7 @@
     <div class="container mt-5">
         <div class="row">
             <div class="col">
-                <h1 class="text-uppercase mb-5"> Quanto você ganha por hora:</h1>
+                <h1 class="text-uppercase mb-5">Quanto você ganha por hora:</h1>
                 <form action="salario-mensal.php" method="GET">
                     <div class="mb-3">
                         <label for="salary" class="form-label">Salário</label>
